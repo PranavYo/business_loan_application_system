@@ -29,7 +29,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Create `Database access credentials`.
 - Create a Database and collection in that cluster.
 - Recommended to use Database name: `business-loan-app` and Collection name: `balance-sheet`. If you choose your own names then make sure you replace the `dbName` and `collectionName` with your respective names in `app/api/index.js`.
-- Insert the data present in `data-1.json` and `data-2.json` directly into collection. There will be two objects for two different `Accounting Providers`, `paste and insert` them ``one after the other``.  Do not change any format, directly copy-paste the data, they will provide input for `json file`.
+- Insert the sample data present in `data-1.json` and `data-2.json` directly into collection. There will be two objects for two different `Accounting Providers`, `paste and insert` them ``one after the other``.  Do not change any format, directly copy-paste the data, they will provide input for `json file`.
 - After that click on `Connect`, to connect with cluster.
 - Click on `Add Current IP Address`.
 - Then choose `Drivers` method to connect with application.
