@@ -3,7 +3,7 @@ const cors = require('cors');
 const { MongoClient } = require("mongodb");
 
 // Replace the following with your Atlas connection string                                                                                                                                        
-const url = "mongodb+srv://dpranav222:dpranav222@cluster0.2fnojzz.mongodb.net/?retryWrites=true&w=majority";
+const url = "paste_your_connection_string_here";
 
 // Connect to your Atlas cluster
 const client = new MongoClient(url);

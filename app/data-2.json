@@ -1,0 +1,173 @@
+{
+    "accounting_provider": "myob",
+    "sheet": [
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "1"
+            },
+            "profitOrLoss": {
+                "$numberInt": "18000"
+            },
+            "assetsValue": {
+                "$numberInt": "4000"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "2"
+            },
+            "profitOrLoss": {
+                "$numberInt": "-8000"
+            },
+            "assetsValue": {
+                "$numberInt": "5500"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "3"
+            },
+            "profitOrLoss": {
+                "$numberInt": "22000"
+            },
+            "assetsValue": {
+                "$numberInt": "6200"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "4"
+            },
+            "profitOrLoss": {
+                "$numberInt": "-12000"
+            },
+            "assetsValue": {
+                "$numberInt": "7200"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "5"
+            },
+            "profitOrLoss": {
+                "$numberInt": "7500"
+            },
+            "assetsValue": {
+                "$numberInt": "8100"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "6"
+            },
+            "profitOrLoss": {
+                "$numberInt": "-5500"
+            },
+            "assetsValue": {
+                "$numberInt": "9200"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "7"
+            },
+            "profitOrLoss": {
+                "$numberInt": "14000"
+            },
+            "assetsValue": {
+                "$numberInt": "10300"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "8"
+            },
+            "profitOrLoss": {
+                "$numberInt": "-2400"
+            },
+            "assetsValue": {
+                "$numberInt": "11200"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "9"
+            },
+            "profitOrLoss": {
+                "$numberInt": "11000"
+            },
+            "assetsValue": {
+                "$numberInt": "12200"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "10"
+            },
+            "profitOrLoss": {
+                "$numberInt": "-8500"
+            },
+            "assetsValue": {
+                "$numberInt": "13100"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "11"
+            },
+            "profitOrLoss": {
+                "$numberInt": "6200"
+            },
+            "assetsValue": {
+                "$numberInt": "14200"
+            }
+        },
+        {
+            "year": {
+                "$numberInt": "2020"
+            },
+            "month": {
+                "$numberInt": "12"
+            },
+            "profitOrLoss": {
+                "$numberInt": "-3800"
+            },
+            "assetsValue": {
+                "$numberInt": "15300"
+            }
+        }
+    ]
+}
