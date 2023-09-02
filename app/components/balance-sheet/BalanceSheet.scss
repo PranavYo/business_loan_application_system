@@ -1,0 +1,122 @@
+.container {
+    padding: 2rem !important;
+}
+
+.heading {
+    color: #3A4374;
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.form-container-balance-sheet {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 2rem;
+    gap: 2rem;
+    background-color: white;
+    border-radius: 0.825rem;
+    width: 100%;
+}
+
+select {
+    width: 50%;
+    height: 4rem;
+    padding: 0.825rem;
+    border-radius: 0.825rem;
+    color: #3A4374;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: url('../../../public/icon-arrow-down.svg') no-repeat;
+    background-size: 0.8rem;
+    background-position: right 5% center;
+    background-color: #F7F8FD;
+
+    &:hover {
+        opacity: 0.75;
+    }
+
+    .option-text {
+        color: #F2F4FE;
+    }
+}
+
+.accounting-provider-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 55vh;
+    overflow: auto;
+
+    table {
+        width: 100%;
+    }
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+    tr {
+        transition: all 0.3s ease-in-out;
+    }
+}
+  
+table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+  
+table tr:nth-child(even){background-color: #f2f2f2;}
+  
+table tr:hover {background-color: #ddd;}
+  
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #3A4374;;
+    color: white;
+}
+
+.no-display-data {
+    text-align: center;
+    color: #3A4374;
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.display-data {
+    color: #3A4374;
+}
+
+.confirm-btn {
+    background-color: #3A4374;
+    color: white;
+
+    &:hover {
+        background-color: #565a73;
+        color: white;
+    }
+}

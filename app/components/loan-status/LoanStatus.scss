@@ -1,0 +1,31 @@
+.container {
+    padding: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner-container {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 0.825rem;
+}
+
+.header {
+    text-align: center;
+    color: #3A4374;
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 10vh;
+}
+
+.text {
+    color: #3A4374;
+}
+
+.bold {
+    font-weight:600;
+    font-size: 1.1rem;
+}
